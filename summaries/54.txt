@@ -1,0 +1,10 @@
+ Theodore Berger of the University of Southern California, in Los Angeles, has proposed that brain implants might be used to store and retrieve memories.
+ Mr Johnson put $100m of his own money into Kernel, stating that "Unlocking our brain is the most significant and consequential opportunity in history." In some ways, Mr Johnson and Mr Musk are merely the new boys in what is quite an old field.
+ The first brain implants, carried out in the 1970s, were prosthetic visual systems, though they did not work well.
+ Hundreds of thousands of people now have them-though, strictly speaking, they talk to auditory nerves rather than to the brain directly, which simplifies the task.
+ For some people, the symptoms of Parkinson's disease can be kept in check by electrodes the diameter of a strand of spaghetti inserted deep into the brain.
+ One of the latest ideas in the field is to read and interpret brain activity, in order to restore movement to the limbs of the paralysed.
+ In February Mr Musk said that he thought "Meaningful" interfaces between the brain and computation were five years away.
+ In a review of the field, published in January in Nature Reviews Materials, Polina Anikeeva and her colleagues at the Massachusetts Institute of Technology wrote that, although Moore's Law and the miniaturisation of electronics have brought devices down to a size where their insertion into the brain can be considered, big challenges lie ahead. The brain's complexity, and researchers' present lack of understanding of how that organ's component cells work together to do what they do, makes designing interfaces between brain and machine hard.
+ Regardless of the precise approach taken to hardware, another problem the field faces is that no one understands the mechanism behind the natural equivalent of software-the way the brain encodes information.
+ Instruction would be possible only if brain signals were properly understood.

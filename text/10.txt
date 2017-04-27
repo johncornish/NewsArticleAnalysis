@@ -1,0 +1,75 @@
+Full Text: 
+  America is gearing up for another debate over network neutrality
+
+  THE details around network neutrality, the principle that
+internet-service providers (ISPs) must treat all sorts of web traffic
+equally, can be mind-numbingly abstruse. But they fuel passion, nonetheless.
+After Tom Wheeler, a former chairman of America's Federal Communications
+Commission (FCC), proposed unpopular net-neutrality rules in late 2014, for
+instance, protesters blocked his driveway, forcing him to walk to work. Their
+action was meant to illustrate the threat of big ISPs erecting toll-booths
+and other choke-points that would relegate less well-off consumers to digital
+slow lanes.
+
+  Now it is the turn of Ajit Pai (pictured), Mr Wheeler's
+successor, to stir the hornets' nest. In the coming days Mr Pai is
+expected to unveil a proposal for new rules on net neutrality. His plan is
+anticipated to be a testament both to his deregulatory agenda and to the big
+ISPs' lobbying power. It would essentially take the FCC out of the
+equation when it comes to policing the smooth running of the internet.
+
+  Because of the protests in 2014 and because of a court decision
+that year suggesting that the FCC needed the jurisdiction to be able to
+mandate net-neutrality rules, Mr Wheeler reclassified internet access as a
+"telecommunications service" to be under Title II of the
+Telecommunications Act, meaning that ISPs are regulated as utilities. It is
+this change that Mr Pai has vowed to undo: he considers the FCC's new
+dominion over ISPs as regulatory overkill.
+
+  Mr Pai does support general rules to protect net neutrality. Like
+other advocates of the principle, he credits these for the internet's
+innovativeness. But he believes that light-touch regulation is enough. Once
+ISPs are no longer classed as telecommunications services he wants them to
+commit to net neutrality in their terms of service. This commitment would (in
+theory) be enforced by a different agency, the Federal Trade Commission
+(FTC), which has the authority to go after firms if they fail to live up to
+promises they make to customers.
+
+  Yet the ISPs' commitments would, at bottom, be voluntary, as
+critics such as Chris Lewis of Public Knowledge, an advocacy group, note.
+ISPs could refuse to make promises on net neutrality, or abandon them down
+the line. If they did break promises, it is unclear how vigorously the FTC
+would go after them. It has less expertise in network engineering, for
+example, so is much less well equipped to enforce the rules. And Mr Pai may
+risk going too far even for his own comfort on net neutrality. If he
+reclassifies internet access, he finds himself in the same situation Mr
+Wheeler was in: the FCC then has limited authority to intervene should things
+go wrong.
+
+  The logical answer to this legal conundrum would be for Congress
+to add a statute on net neutrality to the Telecommunications Act, which
+predates the rise of the internet. That is unlikely, given other legislative
+priorities such as health care and corporate tax, but in a less partisan
+universe, Republicans and Democrats would have little problem finding common
+ground on the subject, says Kevin Werbach of Wharton, a business school at
+the University of Pennsylvania.
+
+  Such a compromise would also be in tune with how the debate about
+net neutrality has evolved. Although they oppose internet access being
+regulated under Title II, most ISPs, including big ones such as AT&T and
+Verizon, have made their peace with net neutrality. The current rules have
+had no discernible negative impact on the companies, notes Mr Werbach.
+Investment in broadband networks may have fallen, as critics of the strict
+net-neutrality rules predicted, but such swings are common in the telecoms
+industry and there is no conclusive evidence that net neutrality is to blame
+for the fall.
+
+  Will Mr Pai's plans trigger widespread protests similar to
+those in 2014? Mr Lewis of Public Knowledge expects that resistance will be
+stronger still, but others are not so sure. Although big internet firms such
+as Google, Netflix, Amazon and others have come out against his expected
+proposals, their opposition seems less determined than it was three years
+ago. Netflix, one of the fiercest defenders of net neutrality, says it is now
+big enough to stand up for itself. Activists, for their part, may already be
+weary from fighting Mr Trump's government on other fronts.
+

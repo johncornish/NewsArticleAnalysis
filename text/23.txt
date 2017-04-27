@@ -1,0 +1,82 @@
+Full Text: 
+  Allegations that Google underpays women inflame a controversial
+debate
+
+  GOOGLE has made a fortune by helping people dig up whatever
+information they seek. But in a court hearing on April 7th, America's
+Department of Labour (DoL) accused the company behind the profitable search
+engine of burying the fact that it pays its female employees less than their
+male counterparts. The accusation of lower compensation for women forms part
+of a lawsuit by the DoL, which has asked Google to turn over detailed
+information on pay. The department has not released data to back its
+assertion, and Google denies the allegation.
+
+  Whatever the outcome in court, the government's
+recriminations risk marring Google's image. Just three days earlier it
+had taken to Twitter to boast that it had "closed the gender pay gap
+globally". That claim is now under suspicion. It is true that at
+Google's parent company, Alphabet, several women hold high positions,
+including Ruth Porat, the chief financial officer, and Susan Wojcicki, who
+runs YouTube, an online-video business. But the important question is not
+only whether a few women get promoted but also how those in the middle and
+lower ranks fare.
+
+  What figures there are paint a depressing picture about the status
+of women in technology. According to a one-off survey in 2015 called
+"Elephant in the Valley", two-thirds of women in Silicon Valley
+feel excluded from key networking events, and three-fifths have experienced
+unwanted sexual advances. More than a quarter of American women in
+engineering, technology and science feel "stalled" in their
+careers, and a third say they are likely to quit their jobs within a year,
+according to the Centre for Talent Innovation, a think-tank.
+
+  The marginalisation of women in tech became a prominent subject in
+2015 during a sex-discrimination lawsuit brought by Ellen Pao, who had worked
+at a venture-capital firm, Kleiner Perkins (she lost the case). It has been
+back in the headlines since Susan Fowler, a former engineer at Uber, a
+ride-hailing firm, wrote a blog post in February saying that male supervisors
+had failed to promote women and that human resources had not taken complaints
+of sexism and harassment seriously. Uber has hired Eric Holder,
+America's former attorney-general, to lead an investigation into the
+company's handling of sexual harassment and workplace culture. The
+results are expected in the coming weeks.
+
+  Some firms, including Uber, are now publishing annual reports
+describing the composition of their workforce, after they were criticised for
+not hiring more women and ethnic minorities. Well under half of tech
+companies' employees are female (see chart). Despite attempts to hire
+more women, they have not shifted their female-staff shares by more than a
+few percentage points.
+
+  Educational choices are part of the problem. In 2013, the most
+recent year for which data are available, only around 18% of computer-science
+graduates were women, half the proportion in 1985. Some suspect there is a
+"negative" network effect, and that the small share of women in the
+field discourages others from choosing it as a course of study.
+
+  Retention is also difficult. A study in 2014 that tracked women in
+jobs related to science, technology, engineering and mathematics (STEM) found
+that half of women had left their professions after 12 years. By comparison,
+only a fifth of women who work in non-STEM fields leave within 30 years.
+Female entrepreneurs find it more difficult to secure funding from venture
+capitalists than their male counterparts do. Elizabeth Holmes, the founder of
+Theranos, a blood-testing firm which has run into trouble, attracted a lot of
+hype largely because she was so unusual. And female venture capitalists, who
+are more likely to fund startups run by women, are the rarest unicorns of all
+in Silicon Valley.
+
+  Transparency about the composition of firms' staff may help
+with hiring more women. But another place where transparency can make a big
+difference is pay. The secretive nature of compensation at tech firms, with
+employees being discouraged from telling their peers anything about their
+equity grants or cash bonuses, means that women do not know when they are
+being underpaid, says Pamela Sayad, a San Francisco-based lawyer who
+specialises in workplace discrimination.
+
+  Some companies that have unearthed disparities, including
+Salesforce, a software firm, and Cisco, a networking company, have pledged
+millions of dollars to fill wage gaps. But absent disclosure, it can still be
+hard to see the pay differences in the first place. For years tech executives
+have talked up the importance of transparency and the power of data for
+decision-making. They should do a better job of practising what they preach.
+

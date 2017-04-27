@@ -1,0 +1,55 @@
+Full Text: 
+  A simple device can warn the wearer of noxious substances
+
+  NERVE agents such as sarin and VX can kill quickly in low doses.
+Kim Jong Nam, half brother of Kim Jong Il, North Korea's leader, was
+recently murdered by having VX smeared on his face at Kuala Lumpur airport.
+Though the use of nerve agents is supposed to be banned by treaty,
+governments and terrorists have deployed them, and may do so again in the
+future. At the moment, there is no simple way for soldiers in the field, or
+inspectors looking for manufacturing and storage sites, to detect nerve
+agents. The electrochemical sensors involved are bulky and awkward to use.
+
+  On civvy street, meanwhile, similar chemicals are employed as
+pesticides to ward off insects that might otherwise damage fruit and
+vegetable crops. If such crops are not thoroughly washed after picking, or
+have been overdosed in the first place, then they, too, may present a health
+hazard. Yet inspecting them to see if they are contaminated can also be a
+hassle.
+
+  It would be better all round if people had suitable detection
+technology available at their fingertips. And Joseph Wang of the University
+of California, San Diego, reports in ACS Sensors that he has a system that
+achieves this quite literally.
+
+  Sarin, VX and their kind are chemicals called organophosphorus
+compounds, which can be deactivated by an enzyme known as organophosphorus
+hydrolase. Existing nerve-agent detectors record changes induced by the
+presence of organophosphorus compounds in the electrical resistance of gels
+impregnated with this enzyme. Dr Wang's trick is to miniaturise the
+process so that it fits on a glove.
+
+  To make their device, he and his colleagues print electrodes made
+of silver and silver chloride, and of carbon, onto the index fingers of
+rubber gloves. These electrodes run from the knuckle to the fingertip, where
+they almost, but not quite, meet. The zone of near-meeting is coated with a
+layer of gel containing organophosphorus hydrolase. The gel connects the ends
+of the electrodes together, completing the circuit. The knuckle-ends of the
+electrodes, meanwhile, are designed to meet a special ring, worn over the
+glove, that both supplies them with current and transmits information on the
+strength of that current to a nearby mobile phone--setting off an alarm if
+the current varies in a way that indicates the enzyme is reacting with a
+nerve agent.
+
+  To gather a residue sample from a surface, the glove's thumb
+has a carbon disc printed onto it which the wearer rubs across a suspicious
+area. All he has to do then is press index finger and thumb together and, if
+the alarm goes off, he knows the surface in question is contaminated.
+
+  Tests with organophosphorus compounds smeared on glass, wood,
+stainless steel and plastic, and also four types of fruit and vegetable,
+suggest the idea works in principle. If it works in the field (and if
+suitable alternative enzymes can be found), it might be extended to the
+detection of other chemicals of interest, such as gunshot residues, drugs and
+explosives.
+

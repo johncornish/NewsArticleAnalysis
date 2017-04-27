@@ -1,0 +1,106 @@
+Full Text: 
+  Why the Federal Reserve should keep its balance-sheet large
+
+  HOW much money should exist? The Federal Reserve must soon
+confront this deep question. The Fed has signalled that towards the end of
+2017 it will probably begin to unwind quantitative easing (QE), the purchase
+of financial assets using newly created bank reserves. The central
+bank's balance-sheet swelled from about $900bn on the eve of the
+financial crisis to about $4.5trn by 2015 as it bought mortgage-backed
+securities and government debt (see chart). If and when the Fed shrinks its
+balance-sheet, it will also retire the new money it created.
+
+  Economists such as Milton Friedman popularised the study of the
+quantity of money in the 1960s and 1970s. By the financial crisis, however,
+the subject had gone out of fashion. The interest rate, it was agreed, was
+what mattered for the economy. The Fed varied the supply of bank reserves,
+but only to keep rates in the market for interbank loans where it wanted them
+to be.
+
+  The Fed's injection of emergency liquidity into financial
+markets in 2008, however, sent interest rates tumbling. To regain control, it
+started paying interest on excess reserves (ie, those reserves in excess of
+those required by regulation). Because banks should not lend for less than
+what the Fed offers, the new policy set a floor under rates in the interbank
+market. This held even as the Fed created still more liquidity with QE.
+
+  The new system means the Fed can vary the amount of money--for
+example, to provide emergency liquidity--without worrying about the effect on
+interest rates. Maintaining the set-up, as the Fed has hinted it might, means
+keeping banks saturated with reserves. Ricardo Reis of the London School of
+Economics estimates that doing so currently requires about $1trn of reserves.
+Add Mr Reis's estimate to the roughly $1.5trn of currency now in
+circulation and you get a minimum balance-sheet size of $2.5trn, much greater
+than before the crisis. And that is before you consider the benefits of
+having still more money available.
+
+  In 1969 Friedman pointed out that holding money is costly. It
+means forgoing the risk-free return an investor can make by buying government
+bonds. Yet because people need money for transactions, everyone must pay this
+cost (deposits in current accounts rarely earn as much as bonds). Only if the
+return on money is somehow made equal to that of bonds does the inefficiency
+disappear. One way of making this happen is to create deflation, ie, to let
+money rise in value over time. Another is to make money bear interest. That
+is tricky with cash, but it is exactly what the Fed does when it pays
+interest on bank reserves.
+
+  The utility of interest-bearing money shows up in financial
+markets, where demand for money-like instruments is rampant. A paper by Robin
+Greenwood, Samuel Hanson and Jeremy Stein, all of Harvard, finds that such is
+the appetite for one-week Treasury bills that from 1983 to 2009 they yielded,
+on average, 72 basis points (hundredths of a percentage point) less than
+six-month bills (for comparison, the difference in yield today between a
+five-year Treasury and a ten-year one is below 50 basis points).
+
+  This poses a problem. The authors argue that when there is not
+enough money, the private sector steps in, by issuing very short-term debt
+like asset-backed commercial paper. Unfortunately, such instruments can cause
+crises. A run on money-market funds, which had gorged on short-term private
+debt, was central to the meltdown in financial markets in late 2008. After
+one infamously "broke the buck" by lowering its share price to less
+than a dollar, the government guaranteed all such funds.
+
+  Follow the money
+
+  More money, then, can increase financial stability as well as
+economic efficiency. Set against these benefits are the costs of the
+Fed's intervention in--or perhaps distortion of--financial markets. The
+goal of QE was to provide only a temporary economic boost. How, exactly, it
+did so is uncertain; on a strict reading of economic theory, it should not
+have worked. Yet the evidence suggests that QE brought down long-term bond
+yields (perhaps by signalling that policy would be loose for a long time).
+With the Fed now raising short-term rates, shouldn't it nudge long-term
+rates up, too?
+
+  Perhaps. Yet it may be possible to do so without shrinking the
+balance-sheet, and hence without retiring any money. About a quarter of the
+Fed's Treasuries mature in more than a decade (see chart). The Fed could
+swap these for shorter-term securities, reversing an earlier policy dubbed
+"Operation Twist". At the same time, it could replace its portfolio
+of mortgage-backed securities--which it has no good reason to hang on
+to--with more Treasuries.
+
+  Maintaining a large balance-sheet may seem radical--until you
+consider a possible next step. Friedman wrote mainly about consumers'
+need for money, not banks'. Why not let individuals and firms open
+accounts at the Fed, and also reap the benefits of interest-bearing money?
+Doing so would swell the Fed's balance-sheet, but eliminate still more
+inefficiencies. For example, it would encourage firms to hold more money,
+reducing the need for zealous cash-management strategies such as delaying
+payments to suppliers. As with QE, such a policy should not be inflationary,
+so long as the Fed maintained control of interest rates.
+
+  The idea is similar to one with its own name: narrow banking,
+which calls for all consumer deposits to be backed by safe government debt,
+rather than illiquid long-term loans. Narrow banking has a long history of
+appealing to economic luminaries, including Friedman, because it seems to end
+the problem of bank runs. Critics say that, by depriving banks of a source of
+cheap funds, narrow banking would starve the economy of credit. Supporters
+reply that the central bank could always lower interest rates or buy more
+assets to compensate.
+
+  Such a profound change to finance is not on the horizon. But the
+Fed may keep its balance-sheet significantly larger than it was before the
+crisis, even if it partly unwinds QE. Given the benefits of abundant money,
+that would be cause for cheer.
+

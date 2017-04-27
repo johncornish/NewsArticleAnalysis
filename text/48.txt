@@ -1,0 +1,88 @@
+Full Text: 
+  Dosing pregnant mice with penicillin changes their
+offsprings' behaviour
+
+  THE symbiosis between human beings and the bacteria dwelling in
+their guts is a delicate thing. When it works well, both sides benefit. The
+bugs get a comfy home. The hosts get help with their digestion, making more
+food available than otherwise would be. If relations are upset, though, bad
+consequences may flow. Both obesity and malnutrition can be exacerbated by
+the wrong gut bacteria. Illnesses such as asthma and eczema are linked to a
+lack of certain bugs from an infant's intestines. And there is evidence,
+from experiments on mice, that an absence of gut flora affects the
+development of the brain. Such absence weakens the blood-brain barrier, which
+normally helps to keep foreign material out of that organ. It also seems to
+make animals less sociable than would otherwise be expected.
+
+  The experiments which show these brain and behavioural changes
+have, though, either been done on mice raised in sterile conditions or on
+ones that have had their alimentary bacterial ecosystems "nuked"
+with antibiotics in high dose--far higher, pro rata, than would be
+administered to a human for medical reasons. The next stage is to test
+whether anything similar happens to mice fed more realistic doses of
+antibiotics. And this is what Sophie Leclercq of McMaster University, in
+Hamilton, Ontario, has now done.
+
+  Dr Leclercq and her colleagues, who have just published their
+results in Nature Communications, laced the drinking water of some pregnant
+female mice with medically appropriate levels of penicillin, starting a week
+before those females were due to give birth, and carrying on three weeks
+after birth, to the point where their offspring were weaned (penicillin is
+known to be transferred from mother to pup in milk). One group of
+mothers-to-be had only the antibiotic added to their water. A second had a
+bacterium called Lactobacillus rhamnosus, a so-called probiotic that has been
+demonstrated experimentally to be good for the intestinal health of mice,
+added as well. A third group of expectant mothers were given their drinking
+water unadulterated. Twenty-five pups were born to mothers in the first
+group, 19 to the second and 28 to the third.
+
+  Six weeks post partum, the researchers tested the sociability of
+the various offspring by putting them, one at a time, for ten minutes, into a
+small, Y-shaped tunnel with two chambers at the ends. One chamber contained
+another mouse, of the same sex as the experimental animal, held in a small
+wire cage. The second contained an empty cage.
+
+  The team found that, when released into this apparatus, the
+offspring of mothers exposed only to penicillin preferred to be alone. They
+spent more time in the empty chamber (four and a half minutes, on average)
+than in the chamber containing another mouse (three and three-quarter
+minutes). Those born of mothers exposed neither to penicillin nor to
+Lactobacillus showed the reverse pattern, averaging only three and a half
+minutes in the empty chamber and almost five in the chamber that gave them
+company. Those mice born of mothers given both penicillin and Lactobacillus
+fell between these extremes, averaging a bit under four and a half minutes in
+the chamber that gave them company, and three and three-quarters in the empty
+one. In all cases there was no significant difference between the sexes.
+
+  Dr Leclercq got similar results when she tested the preferences of
+her mice for social novelty. She did this by letting them choose, in the
+tunnel, between a new mouse and the one they had already met. She found those
+exposed to penicillin alone less interested in the new mouse than those
+exposed to both penicillin and Lactobacillus, or to neither.
+
+  She also found that exposure to penicillin alone made male mice
+more aggressive. She arranged for males in the experiment to be threatened by
+an unfamiliar male belonging to a strain known for being big and hostile.
+Males born of mothers given unadulterated drinking water all quickly assumed
+a submissive posture when confronted with such a stranger. Half of the males
+born of mothers treated with the antibiotic did not, however, submit. Indeed,
+they fought back even though they were clearly outmatched--as did a fifth of
+the males whose mothers had been treated simultaneously with the antibiotic
+and Lactobacillus.
+
+  All these results are in line with the hypothesis that low doses
+of antibiotic affect behaviour similarly to high doses. So, when Dr Leclercq
+and her colleagues killed and examined their animals shortly after the
+behavioural tests, they expected to see permeable blood-brain barriers in the
+mice exposed to penicillin. But they did not. They actually saw the reverse:
+the blood-brain barriers of mice exposed solely to penicillin were far less
+permeable than those of the other two groups.
+
+  What is going on--and, in particular, what relationship (if any)
+exists between the effects of gut flora on the blood-brain barrier and on
+behaviour--remains to be seen. But Dr Leclercq and her colleagues have
+demonstrated that medically relevant doses of penicillin, even when
+administered via the mother rather than directly, can have palpable effects
+on young mice. Whether the same applies to young people, just before or after
+birth, is surely a matter worth investigating.
+

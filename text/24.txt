@@ -1,0 +1,97 @@
+Full Text: 
+  A biometric identification system is helping to recast the
+relationship between the Indian state and its citizens
+
+  IT TAKES a little over 90 seconds. At the government-subsidised
+ration shop in Sargasan, a village in Gujarat, Chandana Prajapati places her
+thumb on a fingerprint scanner. A list of the staples she and her family are
+entitled to this month appears on the shopkeeper's computer: 10kg of
+rice, 25kg of wheat, some cooking oil, salt and sugar. The 55-year-old
+housewife has no cash nor credit card, but no matter. By tapping in an
+identifying number and presenting her thumb one more time, Mrs Prajapati
+authorises a payment of 271 rupees ($4.20) straight from her bank account. It
+is technical wizardry worthy of Stockholm or New York; yet outside buffaloes
+graze, a pot of water is coming to the boil on a pile of firewood and
+children scamper between mud-brick houses.
+
+  Like most Indians, Mrs Prajapati would have struggled to identify
+herself to the authorities a few years ago, let alone to a faraway bank. But
+99% of adults are now enrolled in Aadhaar, a scheme which has amassed the
+fingerprints and iris scans of over 1.1bn people since 2010. With her
+authorisation, any government body or private business can check whether her
+fingerprints or irises match those recorded against her unique 12-digit
+identifying number in its database. When it comes to identification, India
+has unexpectedly leapfrogged every country with the possible exception of
+Estonia, a tiddler with a penchant for innovation.
+
+  Being visible to the state is assumed in rich countries, if only
+because the taxman insists on it. But India had no equivalent of a Social
+Security number, and less than half of all births are registered. Only a
+small minority are required to pay income taxes. Plenty of those entitled to
+government services, meanwhile, have not received them, because they have not
+been identified as eligible or because middlemen have stolen their share. At
+the same time, the benefits rolls are filled with fake beneficiaries, created
+by those seeking to palm undeserved rations of fertiliser, food or some other
+subsidised good.
+
+  Ghosts v the machine
+
+  Linking ration cards to an Aadhaar number, and thus to the
+biometric data tied to it, means a single person cannot have more than one
+and ghosts can have none. The original pitch to politicians--the scheme was
+adopted by the previous government, but has been embraced by Narendra Modi,
+the prime minister--was that Aadhaar would help make welfare more efficient.
+The potential gains are huge. One official estimate suggests that
+"leakage" in subsidy payments meant that only 27% of the money
+ended up in the right hands: not so much a leaky bucket as a sieve.
+
+  Over 400,000 ghost children were struck off school rolls in just
+three states after schools were required to match their pupils to Aadhaar
+numbers to keep receiving state funds. By weeding out false claims,
+authorities say they have saved $8bn in two-and-a-half years; the annual
+central-government budget for subsidies is about $40bn. That may be an
+exaggeration, and critics say there are other ways to improve the
+administration of subsidies. But the savings clearly outstrip the roughly
+$1bn cost of deploying Aadhaar.
+
+  Changing the mechanics of how a benefit is received is often just
+as important as the benefit itself. Development experts like the fact that,
+at least in theory, a villager can gain access to a subsidy in a distant
+city. This removes a big barrier to internal migration. A project to purge
+electoral lists found 800,000 fictitious voters in Punjab, a state of 30m.
+The authorities suspect that 30% of driving licences are fake, many of them
+duplicates to help drivers evade bans--a ruse that would be impossible if all
+licences were linked to Aadhaar.
+
+  Indeed, the improvements in accuracy and efficiency are so
+enormous that the government now wants to use Aadhaar more broadly than
+originally advertised. Recent edicts propose to make it compulsory for
+everything from booking train tickets to owning a mobile phone. If
+implemented, these new uses would put paid to the notion that enrolling in
+Aadhaar is voluntary, which was the promise of its backers--led by Nandan
+Nilekani, an IT grandee who used to chair the agency that set up Aadhaar.
+This in a country with no overt privacy laws, let alone a tradition of
+handling sensitive data competently (many ministries' websites contain
+spreadsheets teeming with Indians' personal data).
+
+  But Aadhaar is a poor way to build up an Orwellian panopticon, Mr
+Nilekani argues, given the wealth of information already available from
+telephone records, GPS data, bank statements and the like. A bigger problem
+may be the impracticalities of the system. Unlike reading an ID card,
+checking someone's identity through Aadhaar requires an internet
+connection and, often, electricity. Ration-shop owners in out-of-the-way
+places are known to march their customers to the top of a hill, roof or
+tree--wherever a phone signal can be found--to check their identity. Even
+then, samples seem to show that roughly a third of authentications come back
+negative, an extraordinarily high failure rate for a technology that people
+rely on for necessities. The chafed fingers of manual labourers often cause
+problems, for example.
+
+  Those high failure rates are just teething troubles linked to
+Aadhaar's many new uses, says Ajay Bhushan Pandey, the head of the
+agency overseeing the scheme. Devices that scan irises (which offer more
+reliable readings) are becoming cheaper and should become the norm, he says.
+Already the Aadhaar database is being tapped 20m times a day, 20 times the
+rate of a year and a half ago. That thrills cheerleaders as much as it alarms
+critics.
+

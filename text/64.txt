@@ -1,0 +1,126 @@
+Full Text: 
+  Weak electricity demand in China and India is clouding the outlook
+for coal
+
+  THE Hazelwood power station in Australia's state of Victoria
+started generating electricity 52 years ago. The stark symbol of an era when
+coal was king, Hazelwood was one of Australia's dirtiest: its fuel was
+the Latrobe valley's brown coal, a bigger polluter than the black sort.
+The station was due finally to close on March 31st. Days earlier, chimney
+stacks were demolished at Munmorah, a black-coal station north of Sydney,
+already closed. Australia has shut ten coal-fired power stations over the
+past seven years, yet coal still generates about three-quarters of its
+electricity.
+
+  This fits a pattern across much of Asia, which accounts for
+two-thirds of the world's coal demand. The biggest economies besides
+Japan, which hopes to replace nuclear with "clean" coal, are either
+closing down old plants or rethinking plans to build new ones. This is
+casting a deepening cloud over the coal industry.
+
+  Two reasons explain the looming overcapacity in countries ranging
+from China and India to Australia (South-East Asia remains hooked on coal).
+Firstly, electricity demand is stagnant, falling or growing less strongly
+than expected, which has put considerable financial strain on power plants
+burning coal. Second, countries are seeking alternative sources of power,
+especially renewables, to reduce pollution and curb carbon emissions. As the
+cost of renewables becomes more competitive with coal, it further blackens
+its future.
+
+  Coal's first headache, the falling energy intensity of
+economic growth (ie, less energy is needed to produce the same levels of
+growth), is a common feature in the rich world, as economies switch from
+manufacturing towards services, use more LED lighting and make appliances
+such as refrigerators and air-conditioners more energy-efficient. According
+to the International Energy Agency, a forecaster, Australia and Japan have
+among the rich world's lowest levels of energy intensity.
+
+  China and India are going the same way. Primary energy demand in
+China declined in 2015, the first fall in almost 20 years, largely reflecting
+a shift away from heavy manufacturing, as well as energy-efficiency gains.
+The same year, China's coal demand plummeted by about 4%.
+
+  For similar reasons, India's growth in electricity demand, at
+around 5% a year, lags behind that of GDP as a whole, at about 7%. In both
+India and China, authorities have overestimated the growth in electricity
+consumption, procuring coal-fired power that is not used by the grid. The
+result is that coal plants in both countries are operating far below their
+potential capacity, says Tim Buckley of the Institute for Energy Economics
+and Financial Analysis, an environmental think-tank (see chart).
+
+  Such wastage has deterred investment in new coal-fired plants. A
+report in March produced by, among others, CoalSwarm, an NGO, found that
+developers in China and India have recently put 68 gigawatts (GW) of planned
+coal-plant construction on hold, though there is still a construction
+pipeline of about 145GW and 50GW, respectively. India's Central
+Electricity Authority sees no need to build more coal-burning plants during
+the next decade besides those already in the pipeline, because so many are
+underused. "Coal-based generation is becoming non-viable," says
+E.A.S. Sarma, a former power secretary in the Indian government.
+
+  That has big costs. About 240m Indians lack access to electricity,
+and as Arunabha Ghosh, head of the Council on Energy, Environment and Water,
+an Indian think-tank, points out, Indians' power consumption is less
+than a third of the global average. He notes that part of the blame for
+sluggish demand is the dire financial state of India's
+electricity-distribution companies, which lose money on every unit of power
+they supply, because of transmission losses and customers' failure to
+pay.
+
+  The government of Narendra Modi, the prime minister, is trying to
+fix the distribution companies' problems. But in the meantime renewable
+energy prices are falling fast, making the investment case for coal even
+bleaker. An auction in February to provide 0.75GW of solar capacity in Madhya
+Pradesh, a state in central India, saw bids as low as 2.97 rupees (4.6 cents)
+per kilowatt hour, a third below the previous record in 2016. Developers say
+new coal-fired power plants would struggle to compete with that. The auction
+was particularly successful because the "solar park" is on land
+with a grid connection, and offers a more robust payment structure than in
+previous auctions. Mr Modi will need dozens more such parks to meet his goal
+of 100GW of solar capacity by 2022. This in turn will need a huge amount of
+financing. But there is no shortage of bidders.
+
+  Meanwhile, the pace of solar installations in China is likely to
+slow, following a record 34GW last year, because the cost reductions are
+being matched by a drop in the subsidy in the feed-in-tariff that China pays
+to solar-power generators. Nonetheless, Bloomberg New Energy Finance, a
+consultancy, estimates that from 2016 the amount of new renewable-energy
+capacity in China is likely to have started exceeding new fossil-fuel plants.
+It expects the same to happen in India from 2018.
+
+  Adding to competition for coal in Asia is liquefied natural gas
+(LNG), imports of which surged by 37% into China last year and by 30% into
+India, according to industry figures released this week. They partly reflect
+a surge in supply from Australia.
+
+  Although Australian LNG may be welcome in Asia, and has benefited
+the Australian economy with investments of A$200bn ($150bn) in a decade, it
+is causing unexpected problems in electricity markets back home. That is
+because, after blackouts in South Australia last year, Australian states need
+more gas as they close coal-fired power stations but find much of it being
+siphoned off for export.
+
+  Rod Sims, head of the Australian Competition and Consumer
+Commission, a regulator, says the boom in liquefying natural gas for export
+has "upended" the gas market on the east coast, where most people
+live. EnergyQuest, a consultancy, calculates that until three years ago,
+volumes of domestic and LNG production ran neck and neck. Last year LNG
+output rose by 56%, and is now more than twice the size of domestic
+production. Australia's domestic gas prices, in turn, have risen to
+reflect export prices, which has inevitably driven up household energy bills.
+
+  The shortages are not easy to replace. New South Wales and
+Victoria, the most populous states, have restricted or banned drilling for
+coal-seam gas because of environmental worries about hydraulic fracturing, or
+"fracking". South Australia, like Queensland, has no such bans.
+Strike Energy, an Australian firm, is test-drilling for coal-seam gas in the
+Cooper Basin, an outback gas-reserve region. David Baker, its managing
+director, says its main target market is Adelaide, the state capital. But
+another could be Gladstone, a hub for LNG-exporters in Queensland.
+
+  Until more gas becomes available, some are calling for governments
+to quarantine certain volumes of export gas for home consumption. Matt
+Canavan, the resources minister, admits Australia's gas problems have
+kept him awake at night. Bucking the market by reserving gas, however, would
+cause an outcry. So, for that matter, would going back to coal.
+

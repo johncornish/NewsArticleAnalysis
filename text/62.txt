@@ -1,0 +1,58 @@
+Full Text: 
+  Mr Kochevar eats his lunch
+
+  A device that lets a paralysed patient control his arm offers hope
+to others
+
+  DURING a 250km (150-mile) bike ride for charity in Ohio, William
+Kochevar found himself cycling behind a post-office van when it pulled over
+to make deliveries. Distracted and tired, Mr Kochevar did not brake in time.
+The accident, in 2006, left him paralysed from the shoulders down. Now, with
+the help of electrodes that transmit signals from his brain to his muscles,
+he has been able to grasp a fork and feed himself for the first time in over
+a decade. The procedure that allowed Mr Kochevar to achieve the feat is
+reported in the Lancet this week.
+
+  Bolu Ajiboye and Bob Kirsch, biomedical engineers at Case Western
+Reserve University, in Cleveland, used functional magnetic-resonance imaging
+to locate nerve cells responsible for arm movements in the left motor cortex
+of Mr Kochevar's brain. The technique highlighted a patch of his brain
+to which the blood supply increased whenever Mr Kochevar imagined moving his
+right arm. The team then implanted at that spot two 4x4mm chips, known as
+Utah arrays, each armed with 96 tiny electrodes, to measure the electrical
+activity of the 100 or so nerve cells there. They also implanted 36
+stimulating electrodes in the muscles of his right hand and arm.
+
+  With the Utah arrays in place, Mr Kochevar was asked to imagine
+moving a virtual arm in a computer simulation, and, later, to imagine moving
+his own arm while it was being moved for him. The patterns of electrical
+activity from the nerve cells firing in Mr Kochevar's brain were fed to
+a computer algorithm, which matched them to the motions of the virtual arm
+and later, his own arm. After this training, the algorithm was able to detect
+brain activity associated with Mr Kochevar's intention to move his arm
+and then trigger the contraction of muscles needed to bring about the desired
+motion.
+
+  Because Mr Kochevar had lost the nerves required to move many of
+his shoulder muscles, his arm movements were assisted by a motorised
+platform, which he also controlled remotely. Around a year after receiving
+the implants, he was able to grasp a coffee cup and drink from it with a
+straw. To feed himself took a further year of training.
+
+  The technique Dr Ajiboye and Dr Kirsch employed to achieve all
+this, which is called functional electrical stimulation (FES), has been used
+in monkeys and has also permitted paralysed human patients to move a robotic
+arm. Last year a different group of researchers reported that the technique
+had allowed a paralysed man who was still able to move his elbow to reach and
+grasp objects. Mr Kochevar's paralysis is more severe, however, and the
+motions he can perform with the aid of FES are more complex.
+
+  Even so, there are hurdles to clear before FES can be used
+routinely. The electrodes implanted into the brain do not last more than a
+few years. More robust ones need to be developed before FES can be deployed
+widely. Several groups are working on that. Also, both the brain electrodes
+and the electrodes to the arm and hand are connected to the outside world by
+cables. Wireless connections would be better. Such a set-up was demonstrated
+last year in monkeys. With luck, people will not have to wait much longer to
+follow suit.
+

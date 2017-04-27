@@ -1,0 +1,8 @@
+<% File.readlines('id_url').each do |line| %>
+    <% if !line.strip.empty? %>
+        <% lp = line.partition(',') %>
+        <h3><%= lp.first %></h3>
+        <a href="<%= lp.last %>"><%= lp.last %></a>
+        <p><%= File.open("summaries/#{lp.first}.txt").read %></p>
+    <% end %>
+<% end %>

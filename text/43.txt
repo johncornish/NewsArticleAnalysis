@@ -1,0 +1,73 @@
+Full Text: 
+  The quickest way to break the ice is by submarine
+
+  ARCTIC sea-ice is melting. For many that is a source of alarm. But
+for others, the ice is still not melting fast enough. They would like to give
+it a helping hand. Clear lanes through the Arctic ocean would permit
+commercial and naval shipping to travel quickly between the Atlantic and the
+Pacific. These lanes might also assist the search for oil and gas.
+
+  The Russian authorities seem particularly keen on the idea. Last
+year they launched Arktika, the first of three giant, new nuclear-powered
+icebreakers intended to help open such routes. But some people think this
+approach--bludgeoning through the ice with what is, in essence, an
+armour-plated knife--is old-fashioned. They believe the job could be done
+faster and more elegantly using a piece of physics called flexural
+gravity-wave resonance. If they are right, the icebreakers of tomorrow might
+be submarines.
+
+  Resonance icebreaking was discovered in 1974 by Canada's
+coast guard, when it began using icebreaking hovercraft able to operate in
+waters too shallow for conventional icebreakers. At low speeds, these craft
+work much as icebreaking ships do, by forcing sections of pack-ice in front
+of their bows to rise up and detach themselves from the main sheet. When
+travelling above 20kph, though, they cause oscillations, known as flexural
+gravity waves, in the ice sheet they have passed over. At the correct speed
+of passage these waves hit a resonant frequency--increasing in amplitude as
+the critical speed is maintained until, at an amplitude dependent on the
+thickness of the sheet, that sheet will crack up and disintegrate, leaving a
+navigable passage behind.
+
+  For things like freeing river mouths of ice, this approach can
+work well. But hovercraft skirts are easily damaged by ridged ice (the sort
+that forms when previously broken ice refreezes), so the vehicles cannot be
+used in places that require frequent clearance. Also, resonance-breaking by
+hovercraft does not work for ice sheets more than about a metre thick.
+
+  That limit is, however, no constraint on the thinking of
+researchers led by Viktor Kozin of the Komsomolsk-on-Amur State Technical
+University, in Russia. Dr Kozin and his team have been investigating
+resonance icebreaking since the 1990s. But, instead of hovercraft, they use
+submarines.
+
+  Dr Kozin's original research was on ways to permit naval
+submarines to surface safely and quickly through ice, the previous method
+having been simply to rise until contact was made with the ice sheet and then
+increase buoyancy until the ice cracked (as an American vessel is pictured
+doing above). That, though, is slow and can damage the boat. Dr Kozin found
+that the bow wave from a submarine travelling close to the surface pushes the
+ice sheet upwards, making flexural gravity waves in it, which cause it to
+break up.
+
+  Follow-up studies by Dr Kozin and his pupil, Vitaliy Zemlyak, who
+is now at the Sholem-Aleichem Priamursky State University in Birobidzhan,
+indicate that a submarine travelling 30 metres below the ice can break a
+sheet one metre thick. At 20 metres it could break ice two metres thick. And
+it can do it quickly. Comparable data are not available for Arktika, but
+America's heavy icebreaker, Polar Star, can break a channel through
+two-metre ice at a rate of three knots. A submarine could force such a
+passage ten times as fast.
+
+  Dr Kozin and Dr Zemlyak have also found that the area of ice
+broken can be increased greatly by using two submarines moving together on
+parallel courses, and they are now looking at increasing the pressure exerted
+on the ice still further, by adding wedges, spoilers and vortex generators to
+a submarine, or even installing an impeller, a giant propeller mounted
+horizontally. Experiments on these ideas will start next winter.
+
+  Building new submarines to act as icebreakers would be a huge
+investment. But here, Russia may have a short cut. It tends to retire its
+naval submarines faster than America does. At the moment such boats are
+normally consigned to the scrapyard. Turning them into icebreakers to open up
+the Arctic might give them a second life.
+

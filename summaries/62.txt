@@ -1,0 +1,10 @@
+ Full Text: Mr Kochevar eats his lunch A device that lets a paralysed patient control his arm offers hope to others DURING a 250km bike ride for charity in Ohio, William Kochevar found himself cycling behind a post-office van when it pulled over to make deliveries.
+ Bolu Ajiboye and Bob Kirsch, biomedical engineers at Case Western Reserve University, in Cleveland, used functional magnetic-resonance imaging to locate nerve cells responsible for arm movements in the left motor cortex of Mr Kochevar's brain.
+ The technique highlighted a patch of his brain to which the blood supply increased whenever Mr Kochevar imagined moving his right arm.
+ The team then implanted at that spot two 4x4mm chips, known as Utah arrays, each armed with 96 tiny electrodes, to measure the electrical activity of the 100 or so nerve cells there.
+ With the Utah arrays in place, Mr Kochevar was asked to imagine moving a virtual arm in a computer simulation, and, later, to imagine moving his own arm while it was being moved for him.
+ The patterns of electrical activity from the nerve cells firing in Mr Kochevar's brain were fed to a computer algorithm, which matched them to the motions of the virtual arm and later, his own arm.
+ The algorithm was able to detect brain activity associated with Mr Kochevar's intention to move his arm and then trigger the contraction of muscles needed to bring about the desired motion.
+ Because Mr Kochevar had lost the nerves required to move many of his shoulder muscles, his arm movements were assisted by a motorised platform, which he also controlled remotely.
+ The technique Dr Ajiboye and Dr Kirsch employed to achieve all this, which is called functional electrical stimulation, has been used in monkeys and has also permitted paralysed human patients to move a robotic arm.
+ Both the brain electrodes and the electrodes to the arm and hand are connected to the outside world by cables.

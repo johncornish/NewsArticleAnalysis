@@ -1,0 +1,63 @@
+Full Text: 
+  Corporate-bond markets are astonishingly archaic. Time to bring
+them into the 21st century
+
+  STOCKMARKETS are the public face of finance; indices like the
+S&P 500 are widely reported proxies for economic health. But they are
+dwarfed by the corporate-bond markets. In 2016 American equity issuance
+amounted to just under $200bn; for corporate bonds the total was $1.5trn.
+
+  The market for corporate debt is not just vast, at $50trn
+globally, it has also been growing fast as a result of ultra-cheap borrowing.
+Issuance in America has risen by half over the past five years. Yet despite
+its importance as a source of financing for companies, the corporate-bond
+market is shockingly archaic. Even basic price data are hard to come by.
+Whereas stocks can be traded at the click of a button, buying and selling
+corporate bonds often requires a phone call to a trading desk at an
+investment bank. This method of trading still accounts for over 80% of volume
+in America. Processes are correspondingly slow: 8% of trades in Europe fail
+to settle in the allotted two days.
+
+  Such inefficiencies partly reflect the particularities of bond
+markets. An individual firm may have one or two types of shares, but issue
+dozens of bonds that differ by maturity, date and seniority in its capital
+structure. Any given bond is thus traded only rarely. In the past, banks made
+markets by holding an inventory of bonds on their balance-sheet until a buyer
+came along. Those electronic platforms that do exist have largely stuck to
+this dealer-based model: under "request for quote" systems that
+account for almost 95% of electronic trading, dealers are still the only ones
+with the power to provide a quote and to buy or sell (see
+"Corporate-bond markets: Click to trade").
+
+  But this system is creaking. Tougher capital regulations
+implemented after the financial crisis sought to discourage banks from
+holding bonds. Trading desks now hold just 1% of all bonds, down from 2.4% as
+recently as 2007. Average trade sizes have also fallen. Demand from central
+banks, in places where corporate-bond purchases were part of
+quantitative-easing (QE) programmes, may have obscured the extent to which
+marketmakers have pulled back. As QE unwinds, shortfalls in liquidity may
+become apparent.
+
+  Restoring the banks to their market-making role by relaxing
+capital rules is no answer. If trouble strikes, it is better for banks to be
+out of harm's way. Instead, corporate-bond markets need to learn from
+equities and help buyers and sellers to meet and trade. Regulators can do
+their bit by requiring prices to be reported for completed transactions, as
+incoming European rules will from early 2018, and as America has in a more
+limited fashion since 2002. But the market is also showing the way. A new
+technology known as "all-to-all" trading allows one institutional
+investor in a network to trade bonds with any other. There are also systems
+to help dealers keep track of inquiries across time, turning them from
+risk-takers into matchmakers.
+
+  Entering the electronic age
+
+  These innovations will not suit everyone. The automation of equity
+markets has cut the earnings of brokers; an end to those chummy phone calls
+will do the same in the bond markets. But investors can only gain from an
+environment where it is easier and cheaper to buy and sell bonds. Issuers
+will also benefit from markets that can smooth out turbulence rather than
+turn it into a full-scale panic and, in normal times, from a lower cost of
+capital. The corporate-bond market will never be as simple or liquid as the
+stockmarket. But it can still learn lessons from its higher-profile cousin.
+

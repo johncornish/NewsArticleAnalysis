@@ -1,0 +1,10 @@
+ Full Text: A simple device can warn the wearer of noxious substances NERVE agents such as sarin and VX can kill quickly in low doses.
+ At the moment, there is no simple way for soldiers in the field, or inspectors looking for manufacturing and storage sites, to detect nerve agents.
+ Sarin, VX and their kind are chemicals called organophosphorus compounds, which can be deactivated by an enzyme known as organophosphorus hydrolase.
+ Existing nerve-agent detectors record changes induced by the presence of organophosphorus compounds in the electrical resistance of gels impregnated with this enzyme.
+ To make their device, he and his colleagues print electrodes made of silver and silver chloride, and of carbon, onto the index fingers of rubber gloves.
+ The zone of near-meeting is coated with a layer of gel containing organophosphorus hydrolase.
+ The gel connects the ends of the electrodes together, completing the circuit.
+ The knuckle-ends of the electrodes are designed to meet a special ring, worn over the glove, that both supplies them with current and transmits information on the strength of that current to a nearby mobile phone-setting off an alarm if the current varies in a way that indicates the enzyme is reacting with a nerve agent.
+ To gather a residue sample from a surface, the glove's thumb has a carbon disc printed onto it which the wearer rubs across a suspicious area.
+ Tests with organophosphorus compounds smeared on glass, wood, stainless steel and plastic, and also four types of fruit and vegetable, suggest the idea works in principle.
