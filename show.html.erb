@@ -4,5 +4,6 @@
         <h3><%= lp.first %></h3>
         <a href="<%= lp.last %>"><%= lp.last %></a>
         <p><%= File.open("summaries/#{lp.first}.txt").read %></p>
+        <hr>
     <% end %>
 <% end %>
